@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/bcoe/google-cloud-python/compare/google-cloud-contentwarehouse-v0.3.1...google-cloud-contentwarehouse-v0.4.0) (2023-02-03)
+
+
+### Features
+
+* add an additional warehouse for content ([#1](https://github.com/bcoe/google-cloud-python/issues/1)) ([b250643](https://github.com/bcoe/google-cloud-python/commit/b2506432a7534a682846f7fa9cabffcc13b17a82))
+
 ## [0.3.1](https://github.com/googleapis/google-cloud-python/compare/google-cloud-contentwarehouse-v0.3.0...google-cloud-contentwarehouse-v0.3.1) (2023-01-20)
 
 
