@@ -1,6 +1,8 @@
 Python Client for Maps Platform Datasets API
 ============================================
 
+[feat]: a second feature
+
 |preview| |pypi| |versions|
 
 `Maps Platform Datasets API`_: Maps Platform Datasets API
