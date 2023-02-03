@@ -1,6 +1,8 @@
 Python Client for Document AI Warehouse
 =======================================
 
+[an amazing new feature']
+
 |preview| |pypi| |versions|
 
 `Document AI Warehouse`_: 
