@@ -1,5 +1,40 @@
 {
   "repository": "bcoe/google-cloud-python",
-  "entries": []
+  "entries": [
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "d03a503c62b92d8e0f1ba0776d64f53e7f34885f",
+          "message": "more maps",
+          "issues": [
+            "3"
+          ]
+        }
+      ],
+      "version": "0.2.0",
+      "language": "PYTHON",
+      "artifactName": "google-maps-mapsplatformdatasets",
+      "id": "85244165-f554-4424-8750-cbe1e3f50d1a",
+      "createTime": "2023-02-03T20:35:15.378Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "b2506432a7534a682846f7fa9cabffcc13b17a82",
+          "message": "add an additional warehouse for content",
+          "issues": [
+            "1"
+          ]
+        }
+      ],
+      "version": "0.4.0",
+      "language": "PYTHON",
+      "artifactName": "google-cloud-contentwarehouse",
+      "id": "efc4b566-ed24-4881-a4cd-1372987821b2",
+      "createTime": "2023-02-03T20:35:15.376Z"
+    }
+  ],
+  "updateTime": "2023-02-03T20:35:15.378Z"
 }
-
